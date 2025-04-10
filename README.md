@@ -22,6 +22,9 @@ When you run Terraform, a Docker container is created with Nginx running and ser
 ##  How to Run
 
 Make sure Docker is running and then:
+1. **Ensure Docker is running** on your system.
+2. Navigate to this project directory.
+3. Run the following Terraform commands:
 
 ```bash
 terraform init
