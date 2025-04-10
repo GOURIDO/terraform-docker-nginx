@@ -26,6 +26,25 @@ This project demonstrates the use of **Terraform** to provision infrastructure a
 
 Once Terraform is applied, a Docker container is created running Nginx, which serves a web page that says:
 
+---
+
+## 🛠️ How to Run
+
+Make sure Docker is installed and running on your system.
+
+### Steps:
+
+```bash
+# Navigate to the project directory
+cd terraform-docker
+
+# Initialize Terraform
+terraform init
+
+# Apply the configuration
+terraform apply
+
+
 
 
 
